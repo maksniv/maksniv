@@ -1,7 +1,5 @@
 # 💻 About Me:
 
-👋 Hello!
-
 😎 I'm looking for my first job
 
 📷 Taking pictures
