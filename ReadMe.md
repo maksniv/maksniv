@@ -1,6 +1,6 @@
 # 💻 About Me:
 
-😎 I'm looking for my first job
+😎 I am dushnila
 
 📷 Taking pictures
 
