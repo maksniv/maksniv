@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white 'My instagram page')](https://instagram.com/maksniv) [![VK](https://img.shields.io/badge/VK-%231DA1F2.svg?logo=VK&logoColor=white 'My VK page')](https://vk.com/tpverstak)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white 'My instagram page')](https://instagram.com/maksniv) [![VK](https://img.shields.io/badge/VK-%231DA1F2.svg?logo=VK&logoColor=white 'My VK page')](https://vk.com/maksniv)
 
 # 💻 Tech Stack:
 
